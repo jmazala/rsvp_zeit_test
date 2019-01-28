@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## DEPLOY NOTES
+this one is at zeit (now-cli)
+just run `now` on command line to deploy.
+credentials are saved in `~/.now/{auth,config}.json`
+
 ## Available Scripts
 
 In the project directory, you can run:
